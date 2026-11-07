@@ -1,0 +1,4 @@
+interface:
+  display_name: "RTL Responsive UX"
+  short_description: "Design accessible responsive RTL interfaces"
+  default_prompt: "Use $rtl-responsive-ui-ux to design and review this interface."
